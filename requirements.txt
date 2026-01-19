@@ -1,0 +1,9 @@
+yfinance
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+ipykernel
+notebook
